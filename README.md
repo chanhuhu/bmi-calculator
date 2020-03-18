@@ -1,2 +1,2 @@
 # bmi-calculator
-My first program that I wrote at high school
+My first program that I wrote/created at high school
