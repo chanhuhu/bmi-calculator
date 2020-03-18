@@ -1,0 +1,22 @@
+C:\Users\Administrator.G2-20131221GGND\Desktop\LFC GROUP\Group LFC\Group LFC\bin\Debug\Group LFC.exe
+C:\Users\Administrator.G2-20131221GGND\Desktop\LFC GROUP\Group LFC\Group LFC\bin\Debug\Group LFC.pdb
+C:\Users\Administrator.G2-20131221GGND\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.G2-20131221GGND\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator.G2-20131221GGND\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator.G2-20131221GGND\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator.G2-20131221GGND\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator.G2-20131221GGND\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator.G2-20131221GGND\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\Group LFC.exe
+C:\Users\Administrator.G2-20131221GGND\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\Group LFC.pdb
+C:\Users\Administrator.G2-20131221GGND\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+F:\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\Group LFC.exe
+F:\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\Group LFC.pdb
+C:\Users\Administrator\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\Group LFC.exe
+C:\Users\Administrator\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\Group LFC.pdb
+C:\Users\Administrator\Desktop\LFC GROUP\Group LFC\Group LFC\bin\Debug\Group LFC.exe
+C:\Users\Administrator\Desktop\LFC GROUP\Group LFC\Group LFC\bin\Debug\Group LFC.pdb
+C:\Users\Administrator\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\LFC GROUP\Group LFC\Group LFC\obj\x86\Debug\Group LFC.csproj.GenerateResource.Cache
